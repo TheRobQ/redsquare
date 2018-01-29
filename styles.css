@@ -1,0 +1,14 @@
+body{
+  padding: 20px;
+  height: 100vh;
+}
+
+
+.redSquare{
+  background-color: darkred;
+  height: 100px;
+  width:100px;
+  margin-left: 25%;
+  margin-top: 15%;
+  transition: transform 5s;
+}
